@@ -1,3 +1,15 @@
+# 优化特征选择
+< img src="https://github.com/GMTX100/Demo2/blob/master/1.png" width="200" alt="">
+< img src="https://github.com/GMTX100/Demo2/blob/master/2.png" width="200" alt="">
+# 优化平衡处理
+< img src="https://github.com/GMTX100/Demo2/blob/master/3.png" width="200" alt="">
+
+# 增加模型平衡指标
+< img src="https://github.com/GMTX100/Demo2/blob/master/4.png" width="200" alt="">
+
+
+
+
 # 邮件分类系统 - 基于朴素贝叶斯
 
 ## 核心功能
